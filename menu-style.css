@@ -65,11 +65,17 @@ img {
     font-weight: 600;
     text-align: center;
 }
+
 .container {
     margin: 0 auto;
     max-width: 110rem;
-    width: 90%;
+    width: 95%;
     padding: 8rem 0;
+}
+@media(min-width: 32rem){
+    .container {
+        width: 90%;
+    }
 }
 .flex {
     display: flex;
@@ -121,10 +127,16 @@ img {
 }
 
 #menu #menu-content p {
-    font-size: 1.6rem;
-    padding: .5rem;
+    font-size: 1.9rem;
+    padding: .7rem .5rem;
     color: #252525;
     color: var(--black);
+}
+#menu #menu-content .btn-order{
+    font-size: 2rem;
+    border: .2rem solid black;
+    background-color: red;
+    cursor: pointer;
 }
 @media(min-width: 50rem) {
     #menu #menu-content {
