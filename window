@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Window Repair</title>
+    <link rel="stylesheet" href="css/root.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <a id="logo">Window Repairiv</a>
+                <ul> 
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div id="hero">
+
+        <img src="https://source.unsplash.com/random" alt="" srcset="">
+        <div id="hero-card">
+            <h2>Stunning window repairs in Chicago</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus iure corrupti quod totam nobis voluptatibus dignissimos voluptatum molestias! Delectus quidem et deserunt quam. Omnis porro fugiat pariatur accusamus sed hic?
+            Nam velit quod distinctio expedita doloremque optio nisi non reiciendis, facilis pariatur minus iste neque quisquam adipisci atque. Quia sed similique quasi exercitationem molestias quaerat, labore veniam nobis cum repudiandae.</p>
+            <h3>Something weird</h3>
+            <button>All Sales</button>
+        </div>
+
+    </div>
+
+    <section id="cards">
+        <div class="container split">
+            <div>
+                <img src="https://source.unsplash.com/random" alt="" srcset="">
+                <h3>Basic</h3>
+                <ul>
+                  <li>1-5 Pages &#128195;</li>
+                  <li>&#128187; and &#128241; Design</li>
+                  <li>Admin Pannel</li>
+                  <li>Presentational</li>
+                </ul>
+                <button>Subscribe</button>
+              </div>
+              <div>
+                <img src="https://source.unsplash.com/random" alt="" srcset="">
+                <h3>Standard</h3>
+                <ul>
+                  <li>1-10 Pages &#128195;</li>
+                  <li>Admin Pannel</li>
+                  <li>Social Media Manager</li>
+                  <li>Blog, Presentational</li>
+                </ul>
+                <button>Subscribe</button>
+              </div>
+              <div>
+                <img src="https://source.unsplash.com/random" alt="" srcset="">
+                <h3>Premium</h3>
+                <ul>
+                  <li>Unlimited Pages &#128195;</li>
+                  <li>E-Commerce, Blogging, Food Ordering System</li>
+                  <li>App and Website &#128562;</li>
+                  <li>Admin pannel</li>
+                  <li>Social Media Manager</li>
+                </ul>
+                <button>Subscribe</button>
+              </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container split">
+            <div>
+                <img src="https://source.unsplash.com/random" alt="" srcset="">
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eligendi unde esse modi commodi! Placeat nihil numquam in nam voluptate. Aliquam repudiandae ipsam reiciendis nemo vero! Accusamus dolorem nulla quod.</p>
+        </div>
+    </section>
+
+    <section id="about-2">
+        <div class="container split">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto eligendi unde esse modi commodi! Placeat nihil numquam in nam voluptate. Aliquam repudiandae ipsam reiciendis nemo vero! Accusamus dolorem nulla quod.</p>
+
+            <div>
+                <img src="https://source.unsplash.com/random" alt="" srcset="">
+            </div>
+        </div>
+    </section>
+    
+</body>
+</html>
